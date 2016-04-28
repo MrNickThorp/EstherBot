@@ -1,9 +1,13 @@
 {
-    "HELLO": "Hey, I'm so glad you dropped by! Do you want to learn more about what we can offer?",
-    "YES": "Great, so what do you want to talk about? %[Tell her](postback:twitter) %[Emerging markets](postback:EMERGING_MARKETS) %[UK equities](http://www.franklintempleton.co.uk)",
+    "HELLO": "Hey, I'm so glad you dropped by! Do you want to learn more about what we can offer? %[See Topics](postback:SEE_TOPICS)",
+    "SEE TOPICS": "Great, so what do you want to see? %[Emerging markets](postback:EMERGING_MARKETS) %[UK equities](postback:UK_EQUITIES)",
     "NO": "Shame, are you sure?",
-    "EMERGING MARKETS": "Great topic, EMs are one of our specialties. More info at ...",
-    "UK EQUITIES": "Great topic, UK equities are one of our specialties. More info at ...",
+    "EMERGING MARKETS": "Great topic, EMs are one of our specialties. Check out some thinking %[Asia](postback:ASIA) %[Eastern Europe](postback:E_EUROPE)",
+    "ASIA": "We love Asia and have a bunch of offices there. Here's one of our favourite funds %[Templeton Asian Growth Fund](http://www.franklintempleton.co.uk/en_GB/investor/funds/fund-detail/267) %[See Topics](postback:SEE_TOPICS)",
+    "EASTERN EUROPE": "We love Eastern Europe and have a bunch of offices there. Here's one of our favourite funds %[Templeton Eastern Europe Fund](http://www.franklintempleton.co.uk/en_GB/investor/funds/fund-detail/1921) %[See Topics](postback:SEE_TOPICS)",
+    "UK EQUITIES": "Great topic, UK equities are one of our specialties. Check out some thinking %[Small Caps](postback:UK_SM_CAP) %[Mid Caps](postback:UK_M_CAP)",
+    "SMALL CAPS": "We're proud of our small cap fund. Check out some thinking %[Small Cap Blog](http://www.franklintempleton.co.uk/en_GB/investor/blog/article/march/think-uk-small-caps-pack-punch) %[Mid Caps](postback:UK_M_CAP) %[See Topics](postback:SEE_TOPICS)",
+    "MID CAPS": "We're proud of our mid cap fund. Check out some thinking %[Mid Cap Blog](http://www.franklintempleton.co.uk/en_GB/investor/blog/article/october/why-wouldnt-you-invest-in-mid-caps) %[Small Caps](postback:UK_SM_CAP) %[See Topics](postback:SEE_TOPICS)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
