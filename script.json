@@ -1,7 +1,8 @@
 {
     "HELLO": "Hey, I'm so glad you dropped by! Do you want to learn more about what we can offer?",
-    "YES": "Great, so what do you want to talk about? %[Emerging markets](postback:Emerging Markets) %[UK equities](postback:UK Equities)",
+    "YES": "Great, so what do you want to talk about? %[Emerging markets](postback:Emerging Markets) %[UK equities](http://www.franklintempleton.co.uk)",
     "NO": "Shame, are you sure?",
+    
     "EMERGING MARKETS": "Great topic, EMs are one of our specialties. More info at ...",
     "UK EQUITIES": "Great topic, UK equities are one of our specialties. More info at ...",
     "CONNECT ME": "",
