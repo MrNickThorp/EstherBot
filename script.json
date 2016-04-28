@@ -1,7 +1,7 @@
 {
     "HELLO": "Hey, I'm so glad you dropped by! Do you want to learn more about what we can offer? %[See Topics](postback:SEE_TOPICS)",
     "SEE TOPICS": "Great, so what do you want to see? %[Emerging markets](postback:EMERGING_MARKETS) %[UK equities](postback:UK_EQUITIES)",
-    "NO": "Shame, are you sure?",
+    "NO": "Shame, are you sure? https://github.com/aw1231/EstherBot/blob/master/img/alanwatts.png",
     "EMERGING MARKETS": "Great topic, EMs are one of our specialties. Check out some thinking %[Asia](postback:ASIA) %[Eastern Europe](postback:E_EUROPE)",
     "ASIA": "We love Asia and have a bunch of offices there. Here's one of our favourite funds %[Templeton Asian Growth Fund](http://www.franklintempleton.co.uk/en_GB/investor/funds/fund-detail/267) %[See Topics](postback:SEE_TOPICS)",
     "EASTERN EUROPE": "We love Eastern Europe and have a bunch of offices there. Here's one of our favourite funds %[Templeton Eastern Europe Fund](http://www.franklintempleton.co.uk/en_GB/investor/funds/fund-detail/1921) %[See Topics](postback:SEE_TOPICS)",
