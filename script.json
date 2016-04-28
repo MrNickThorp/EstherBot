@@ -1,6 +1,6 @@
 {
-    "HI": "Hey, I'm so glad you dropped by! \r\n\r\Do you want to learn about what we can offer? %[See Topics](postback:SEE_TOPICS)",
-    "HELLO": "Hey, I'm so glad you dropped by! \r\n\r\Do you want to learn about what we can offer? %[See Topics](postback:SEE_TOPICS)",
+    "HI": "Hey, I'm so glad you dropped by! \r\n\r\ Do you want to learn about what we can offer? %[See Topics](postback:SEE_TOPICS)",
+    "HELLO": "Hey, I'm so glad you dropped by! \r\n\r\ Do you want to learn about what we can offer? %[See Topics](postback:SEE_TOPICS)",
     "SEE TOPICS": "Great, so what do you want to see? %[Emerging markets](postback:EMERGING_MARKETS) %[UK equities](postback:UK_EQUITIES)",
     "NO": "Shame, are you sure?",
     "EMERGING MARKETS": "Great topic, EMs are one of our specialties. Check out some thinking %[Asia](postback:ASIA) %[Eastern Europe](postback:E_EUROPE)",
